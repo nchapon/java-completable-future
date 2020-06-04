@@ -1,0 +1,9 @@
+#+TITLE: Java Completable Future
+#+AUTHOR: Nicolas Chapon
+#+EMAIL:  nchapon@gmail.com
+#+DATE:   2020-06-04 juin
+#+TAGS:
+* java-completable-future
+
+Learning Java Completable Future
+Cf https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/concurrent/CompletableFuture.html
